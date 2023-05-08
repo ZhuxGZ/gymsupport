@@ -1,0 +1,14 @@
+{
+	"name": "gym-support",
+	"version": "1.0.0",
+	"description": "Web for GYM SUPPORT",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Ignacio Bergantiños",
+	"license": "ISC",
+	"Dependencies": {
+		"tailwindcss": "^3.3.2"
+	}
+}

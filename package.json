@@ -2,13 +2,13 @@
 	"name": "gym-support",
 	"version": "1.0.0",
 	"description": "Web for GYM SUPPORT",
-	"main": "index.js",
+	"main": "tailwind.config.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Ignacio Bergantiños",
 	"license": "ISC",
-	"Dependencies": {
+	"dependencies": {
 		"tailwindcss": "^3.3.2"
 	}
 }
